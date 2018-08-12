@@ -1,0 +1,9 @@
+Instalação:
+
+- Veja o arquivo conecta.php que está dentro do diretório include, e altere de acordo com os dados de conexão com o banco de dados MySQL.
+
+- De permissão 777 no diretório dataatualizada. Se continuar a dar erro de permissão mude também a permissão dos arquivos log.txt e data.txt para 777. 
+
+- Entre no PHPMyAdmin e execute o arquivo sql.txt para criar as tabelas.
+
+- Qualquer dúvida, bug, sugestões envie um email para agenciabrn@live.com
