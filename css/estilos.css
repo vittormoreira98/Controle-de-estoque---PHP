@@ -1,0 +1,92 @@
+
+  .linkes1 a:link {text-decoration: none; color: #000000;}
+  .linkes1 a:visited {text-decoration: none; color: #000000;}
+  .linkes1 a:hover {
+  text-decoration: underline; 
+  color: #666666;
+  }
+  .linkes1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+}
+
+  .linkes2 a:link {text-decoration: none; color: #000000;}
+  .linkes2 a:visited {text-decoration: none; color: #000000;}
+  .linkes2 a:hover {
+  text-decoration: underline; 
+  color: red;
+  }
+  .linkes2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0000FF;
+}
+  
+ .formulario {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #CCCCCC;
+	border: 1px solid #000000;
+}
+ .font1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+ .font2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: red;
+}
+ .font3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: red;
+	font-weight: bold;
+}
+#menubv {
+	width: 145px;
+	padding: 0;
+	margin: 1em 0;
+	font-family: Verdana, Arial, 
+		  Helvetica, sans-serif;
+	font-size: 10px;
+	background-color: #transparent;
+	color: #000;
+	}
+#menubv ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+	}
+#menubv li {
+	border-bottom: 1px solid #999999;
+	margin: 0;
+	}
+#menubv li a {
+	display: block;
+	padding: 5px 5px 5px 0.5em;
+	font-weight:bold;
+	border-left: 10px solid #000000;
+	border-right: 10px solid #CCCCCC;
+	background-color: #666666;
+	color: #EEEEEE;
+	text-decoration: none;
+	width: 100%;
+	}
+html>body #menubv li a {
+	width: auto;
+	}
+#menubv li a:hover {
+	border-left: 10px solid #999999;
+	border-right: 10px solid #F4F4F4;
+	background-color: #CCCCCC;
+	color: #666666;
+}
+
+.info {
+text-indent: 20px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+}

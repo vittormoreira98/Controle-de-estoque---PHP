@@ -1,0 +1,86 @@
+[12/03/2015 - 18:21:28]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[12/03/2015 - 18:21:35]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[12/03/2015 - 18:21:41]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[12/03/2015 - 18:52:21]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[12/03/2015 - 18:52:27]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[12/03/2015 - 18:52:39]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[07/05/2015 - 19:45:01]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[07/05/2015 - 19:48:27]    /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/alteraproduto.php
+[07/05/2015 - 19:48:27]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[07/05/2015 - 19:48:40]    /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/alteraproduto.php
+[07/05/2015 - 19:48:40]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[07/05/2015 - 19:48:52]  10.6.0.154  /internet/20151S/faculdade/238062014/Aline/Projeto/BRN Controle de Estoque/index.php
+[10/05/2015 - 01:19:57]  ::1  /chr1/index.php
+[10/05/2015 - 01:20:36]    /chr1/intranet.php
+[10/05/2015 - 01:20:53]    /chr1/cadastroproduto.php
+[10/05/2015 - 01:20:54]    /chr1/criatipo.php
+[10/05/2015 - 01:20:56]    /chr1/criafabricante.php
+[10/05/2015 - 01:21:22]  ::1  /chr1/index.php
+[10/05/2015 - 01:21:27]    /chr1/intranet.php
+[10/05/2015 - 01:22:37]    /chr1/intranet.php
+[10/05/2015 - 01:22:44]    /chr1/cadastroproduto.php
+[10/05/2015 - 01:23:36]    /chr1/incluirprod.php
+[10/05/2015 - 01:23:39]    /chr1/cadastroproduto.php
+[10/05/2015 - 01:25:36]  ::1  /chr1/cadastroproduto.php
+[10/05/2015 - 01:25:43]  ::1  /chr1/cadastroproduto.php
+[10/05/2015 - 01:25:51]  ::1  /chr1/noticia.php
+[10/05/2015 - 01:25:53]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:25:54]  ::1  /chr1/criatipo.php
+[10/05/2015 - 01:25:55]  ::1  /chr1/cadastroproduto.php
+[10/05/2015 - 01:25:58]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:25:59]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:26:01]  ::1  /chr1/index.php
+[10/05/2015 - 01:26:05]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:26:07]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:26:09]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:26:09]  ::1  /chr1/index.php
+[10/05/2015 - 01:26:57]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:27:01]  ::1  /chr1/noticia.php
+[10/05/2015 - 01:27:02]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:27:13]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:27:17]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:27:33]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:27:35]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:27:36]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:27:39]  ::1  /chr1/noticia.php
+[10/05/2015 - 01:27:40]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:27:41]  ::1  /chr1/criatipo.php
+[10/05/2015 - 01:27:42]  ::1  /chr1/cadastroproduto.php
+[10/05/2015 - 01:27:43]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:27:46]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:27:47]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:27:49]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:27:50]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:27:52]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:28:37]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:28:38]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:28:40]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:28:41]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:28:42]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:28:44]  ::1  /chr1/index.php
+[10/05/2015 - 01:28:58]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:29:00]  ::1  /chr1/noticia.php
+[10/05/2015 - 01:29:01]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 01:29:02]  ::1  /chr1/criatipo.php
+[10/05/2015 - 01:29:03]  ::1  /chr1/cadastroproduto.php
+[10/05/2015 - 01:29:14]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:29:15]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:29:18]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:29:19]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:29:25]  ::1  /chr1/listarprod.php
+[10/05/2015 - 01:29:27]  ::1  /chr1/intranet.php
+[10/05/2015 - 01:31:26]  ::1  /chr1/cadastroproduto.php
+[10/05/2015 - 01:31:30]  ::1  /chr1/intranet.php
+[10/05/2015 - 16:39:32]  ::1  /chr1/index.php
+[10/05/2015 - 16:39:40]  ::1  /chr1/intranet.php
+[10/05/2015 - 16:39:42]  ::1  /chr1/cadastroproduto.php
+[10/05/2015 - 16:39:44]  ::1  /chr1/criatipo.php
+[10/05/2015 - 16:39:45]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 16:39:47]  ::1  /chr1/noticia.php
+[10/05/2015 - 16:39:52]  ::1  /chr1/criafabricante.php
+[10/05/2015 - 16:39:57]  ::1  /chr1/intranet.php
+[10/05/2015 - 19:51:20]  ::1  /chr1/index.php
+[11/05/2015 - 01:03:06]  ::1  /chr1/index.php
+[11/05/2015 - 01:05:36]  ::1  /chr1/intranet.php
+[11/05/2015 - 01:05:41]  ::1  /chr1/cadastroproduto.php
+[11/05/2015 - 01:05:43]  ::1  /chr1/intranet.php
